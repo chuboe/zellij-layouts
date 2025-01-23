@@ -1,6 +1,0 @@
-layout {
-    pane borderless=false
-    pane {
-        borderless false
-    }
-}
